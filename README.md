@@ -14,16 +14,23 @@ It includes a list of features:
 
 ## Installation Guide
 `npm install`
+<br>
 `bower install`
 ### For Android
 `ionic build android`
+<br>
 `ionic run android`
+<br>
 or
+<br>
 `ionic emulate android`
-###For IOS
+### For IOS
 `ionic build ios`
+<br>
 `ionic run ios`
+<br>
 or
+<br>
 `ionic emulate ios`
 
 ## Backend of conFusion-Restuarant
